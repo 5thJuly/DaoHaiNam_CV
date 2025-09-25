@@ -1,7 +1,5 @@
 # DaoHaiNam_ Resume
 
-# Dao Hai Nam - Resume
-
 Hi there 👋, welcome to my Resume repository.  
 I am Dao Hai Nam, a Software Engineering graduate from FPT University, passionate about Backend Development and Mobile Development (Android).  
 
